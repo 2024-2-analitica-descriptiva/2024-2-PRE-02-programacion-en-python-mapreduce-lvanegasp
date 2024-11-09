@@ -178,14 +178,3 @@ if __name__ == "__main__":
         "files/input",
         "files/output",
     )
-
-
-
-    """Line Preprocessing"""
-
-    #
-    # sequence = []
-    # for key, value in sequence:
-    #     new_tuple = (key, value.translate(str.maketrans("", "", string.punctuation)))
-    #     sequence.append(new_tuple)
-    #
